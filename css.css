@@ -54,7 +54,7 @@ form input , form textarea{
 }
 form button{
 	padding:15px;
-	bacground:#ff5361;
+	background:#ff5361;
 	color: #fff;
 	font-size:18px;
 	border:0;
@@ -146,8 +146,6 @@ li{
 	float:right; 
 	display:block;
 }
-a{
-}
 nav a {
 	color:#ffffff;
 	text-decoration:none;
@@ -197,7 +195,7 @@ ul{
 }
 ul li{
 	display: inline-block;
-	float:right;
+	float: right;
 	margin: 4px;
 }
 ul li a{
@@ -334,7 +332,7 @@ ul li.active a{
 
 	color:#fff;
 	position:absolute;
-	botton:8%;
+	bottom:8%;
 
 }
 .text-box h1{
@@ -770,8 +768,7 @@ textarea {
   .main-button{
   	  margin-left:0.5px;
   }
-  header{
-  }
+
 
 @media screen and (max-width: 720px) {
   h1 {
@@ -840,7 +837,7 @@ textarea {
 
 .blog-header p{
 	font-size:18px;
-	column:#999;
+	columns:#999;
 	line-height:1.5em;
 	margin-bottom:15px;
 	color:white;
@@ -876,9 +873,6 @@ textarea {
 	margin-bottom:1px;
 	color:#efcc90;
 }
-.blog-about span{
-
-}
 .blog a{
 	color:white;
 	text-decoration:none;
@@ -892,7 +886,7 @@ textarea {
 .blog .blog-text{
 	font-size:12px;
 	margin-top:-10px;
-	margin-botton:30px;
+	margin-bottom:30px;
 	color:#d3d3d3;
 }
 .read-more{
