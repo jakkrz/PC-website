@@ -1474,7 +1474,7 @@ img.ad5-block.ad5-width-100\%.ad5-radius-lg {
 	background: #1b1229;
 	border-radius: 15px;
 	height: 300px;
-	width: 1800px;
+	width: 95%;
 
 }
 
@@ -1497,8 +1497,8 @@ img.ad5-block.ad5-width-100\%.ad5-radius-lg {
 
 .doc-iconbox{
 	background: #3a3242;
-	width: 250px;
-	height: 250px;
+	width: 16%;
+	height: auto;
 	border-radius: 15px;
 	padding: 35px;
 	float: left;
@@ -1507,7 +1507,7 @@ img.ad5-block.ad5-width-100\%.ad5-radius-lg {
 .doc-textbox{
 	float: left;
 	height: 250px;
-	width: 1000px;
+	width: 61.75%;
 	margin-left: 25px;
 }
 
